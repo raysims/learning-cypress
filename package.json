@@ -1,0 +1,20 @@
+{
+  "name": "cypress-learning",
+  "version": "1.0.0",
+  "description": "Learning Cypress via Udemy Course",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.1",
+    "prettier": "^3.0.0"
+  }
+}
